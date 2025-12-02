@@ -53,7 +53,9 @@ This project was built as part of my transition from **Java to Kotlin**, focusin
 - Support multiple fonts
 - Add dark mode
 - Save user preferences
+## Download
 
+Go to the [Releases](https://github.com/mayank4singh/TextScaler/releases/tag/Latest) to download the latest APK.
 ---
 
 ⭐ If you liked this project, give it a star and feel free to fork it!
