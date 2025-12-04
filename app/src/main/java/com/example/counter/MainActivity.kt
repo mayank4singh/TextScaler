@@ -22,7 +22,6 @@ class MainActivity : AppCompatActivity() {
                 textView.textSize = finalSize
 
             }
-
             override fun onStartTrackingTouch(seekBar: SeekBar?) {}
             override fun onStopTrackingTouch(seekBar: SeekBar?) {}
         })
